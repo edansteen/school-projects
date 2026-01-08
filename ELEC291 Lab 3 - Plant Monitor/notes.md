@@ -1,0 +1,3 @@
+- TAke large number of samples (~256) and take average to get a more accurate reading
+- Temperature  = (V_reading - 2.73) * 100
+- pi ~= 355/113
