@@ -6,3 +6,4 @@ A collection of some projects I made for my courses at UBC
 - ```ELEC291 Lab 2 - Alarm Clock``` 
 - ```ELEC291 Lab 3 - Plant Monitor``` 
 - ```ELEC291 Lab 6 - STM32 Capacitance Meter``` 
+- ```ELEC301 Projects 1 and 2``` 
